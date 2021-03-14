@@ -1,4 +1,4 @@
-# reactJSChampionShi
+# reactJSChampionShip
 ReactJSChampionShip
 
 Command to Run the setup in development mode
